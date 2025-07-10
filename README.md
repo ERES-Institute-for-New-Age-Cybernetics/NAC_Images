@@ -41,6 +41,18 @@ This repository includes the following folders:
 
 ---
 
+## 📖 Table of Contents
+
+- [Overview](#-overview)
+- [Contents](#-contents)
+- [Associated Frameworks](#-associated-frameworks)
+- [Usage and Licensing](#-usage-and-licensing)
+- [Contribute Visuals](#-contribute-visuals)
+- [Related Repositories](#-related-repositories)
+- [Contact](#-contact)
+
+---
+
 ## 🧠 Associated Frameworks
 
 The images in this repository correspond to the following core ERES Institute systems:
