@@ -7,6 +7,18 @@
 
 ---
 
+## 📖 Table of Contents
+
+* [Overview](#-overview)
+* [Contents](#-contents)
+* [Associated Frameworks](#-associated-frameworks)
+* [Usage and Licensing](#-usage-and-licensing)
+* [Contribute Visuals](#-contribute-visuals)
+* [Related Repositories](#-related-repositories)
+* [Contact](#-contact)
+
+---
+
 ## 🌐 Overview
 
 Welcome to the **NAC\_Images** repository—an evolving collection of logos, infographics, system diagrams, iconography, and illustrative artwork designed to represent the philosophy, infrastructure, and implementation pathway of **New Age Cybernetics (NAC)**.
@@ -19,37 +31,25 @@ NAC is the integrated design framework guiding the 1,000-Year Future Map develop
 
 This repository includes the following folders:
 
-* `logos/`
+* [`logos/`](./logos)
 
   > ERES, NAC, EarnedPath, PlayNAC, GraceChain, GAIA, AuraTech, and official partner emblems.
 
-* `infographics/`
+* [`infographics/`](./infographics)
 
   > Diagrams conveying conceptual flows (e.g., EarnedPath → UBIMIA → GAIA), SEPLTA matrices, Smart City migration, GCF mechanics, Graceful Evolution, and more.
 
-* `aura-tech/`
+* [`aura-tech/`](./aura-tech)
 
   > Visual integrations of **Aura Technology** and **Bio-Ecologic Feedback Systems**, including PERC-Day materials and Kirlianography examples.
 
-* `architecture/`
+* [`architecture/`](./architecture)
 
   > System schematics for GiantERP, RT Media Infrastructure, HFVN voice integration, and Smart Service Matching.
 
-* `thumbnails/`
+* [`thumbnails/`](./thumbnails)
 
   > Social media–optimized snapshots for Threads, Substack, Medium, and BlueSky.
-
----
-
-## 📖 Table of Contents
-
-- [Overview](#-overview)
-- [Contents](#-contents)
-- [Associated Frameworks](#-associated-frameworks)
-- [Usage and Licensing](#-usage-and-licensing)
-- [Contribute Visuals](#-contribute-visuals)
-- [Related Repositories](#-related-repositories)
-- [Contact](#-contact)
 
 ---
 
